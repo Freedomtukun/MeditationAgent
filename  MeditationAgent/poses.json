@@ -1,0 +1,428 @@
+{
+  "mountain_pose": {
+    "zhName": "山式",
+    "description": "双脚并拢均匀受力，身体挺直，肩部放松，头部正直，避免塌腰驼背。",
+    "difficulty": "beginner",
+    "keywords": ["mountain pose", "山式", "タダーサナ", "Tadasana", "standing"]
+  },
+  "tree_pose": {
+    "zhName": "树式",
+    "description": "重心移至一脚，另一脚放腿内侧，骨盆中正，双手合十或上举，保持平衡。",
+    "difficulty": "beginner",
+    "keywords": ["tree pose", "树式", "ヴリクシャーサナ", "Vrikshasana", "balance"]
+  },
+  "downward_dog": {
+    "zhName": "下犬式",
+    "description": "手脚支撑呈倒V形，腿部伸直，头部放松，避免手臂弯曲或背部拱起。",
+    "difficulty": "beginner",
+    "keywords": ["downward-facing dog", "下犬式", "アドームカシュヴァーナーサナ", "Adho Mukha Svanasana", "inversion"]
+  },
+  "child_pose": {
+    "zhName": "婴儿式",
+    "description": "跪坐臀部坐脚跟，身体前屈额头贴地，手臂前伸，肩背放松。",
+    "difficulty": "beginner",
+    "keywords": ["child's pose", "婴儿式", "バーラーサナ", "Balasana", "restorative"]
+  },
+  "warrior_i": {
+    "zhName": "战士一式",
+    "description": "弓步前腿90度，髋部朝前，手臂上举，胸腔打开，后腿伸直。",
+    "difficulty": "beginner",
+    "keywords": ["warrior i", "战士一式", "ヴィーラバドラーサナI", "Virabhadrasana I", "standing"]
+  },
+  "warrior_ii": {
+    "zhName": "战士二式",
+    "description": "宽步前腿90度，髋部打开，手臂平举，肩部放松，眼看前方。",
+    "difficulty": "beginner",
+    "keywords": ["warrior ii", "战士二式", "ヴィーラバドラーサナII", "Virabhadrasana II", "strength"]
+  },
+  "triangle_pose": {
+    "zhName": "三角式",
+    "description": "宽步身体侧弯，胸腔打开，双腿伸直，脊柱延展，避免膝盖弯曲。",
+    "difficulty": "beginner",
+    "keywords": ["triangle pose", "三角式", "トリコーナーサナ", "Trikonasana", "stretch"]
+  },
+  "standing_forward_bend": {
+    "zhName": "站立前屈",
+    "description": "身体前屈，头部放松，腿部伸直，可微屈膝盖，避免弓背。",
+    "difficulty": "beginner",
+    "keywords": ["standing forward bend", "站立前屈", "ウッターナーサナ", "Uttanasana", "hamstring stretch"]
+  },
+  "seated_forward_bend": {
+    "zhName": "坐姿前屈",
+    "description": "长坐身体前屈，头部放松，从髋部折叠，避免弓背和腿部弯曲。",
+    "difficulty": "beginner",
+    "keywords": ["seated forward bend", "坐姿前屈", "パスチモッターナーサナ", "Paschimottanasana", "stretch"]
+  },
+  "cobra_pose": {
+    "zhName": "眼镜蛇式",
+    "description": "俯卧胸部上提，肩部放松，耻骨贴地，避免手臂过度用力或耸肩。",
+    "difficulty": "beginner",
+    "keywords": ["cobra pose", "眼镜蛇式", "ブジャンガーサナ", "Bhujangasana", "backbend"]
+  },
+  "bridge_pose": {
+    "zhName": "桥式",
+    "description": "仰卧抬起臀部，肩背支撑，腿部发力，避免颈部紧张。",
+    "difficulty": "beginner",
+    "keywords": ["bridge pose", "桥式", "セートゥバンダーサナ", "Setu Bandhasana", "backbend"]
+  },
+  "cat_cow_pose": {
+    "zhName": "猫牛式",
+    "description": "四角跪姿，吸气塌腰抬头（牛），呼气拱背低头（猫），配合呼吸，动作缓慢流畅。",
+    "difficulty": "beginner",
+    "keywords": ["cat-cow pose", "猫牛式", "マールジャリャーサナ・ビティラーサナ", "Marjaryasana-Bitilasana", "spine"]
+  },
+  "plank_pose": {
+    "zhName": "平板式",
+    "description": "手或肘支撑，身体呈一条直线，收紧核心，避免塌腰或臀部过高。",
+    "difficulty": "beginner",
+    "keywords": ["plank pose", "平板式", "クンバカーサナ", "Kumbhakasana", "core strength"]
+  },
+  "chair_pose": {
+    "zhName": "幻椅式",
+    "description": "站立臀部后坐如坐椅子，膝盖弯曲，手臂上举，核心收紧。",
+    "difficulty": "beginner",
+    "keywords": ["chair pose", "幻椅式", "ウトゥカターサナ", "Utkatasana", "strength"]
+  },
+  "garland_pose": {
+    "zhName": "花环式",
+    "description": "深蹲，双脚分开，臀部放低，手肘在膝盖内侧，双手合十。",
+    "difficulty": "beginner",
+    "keywords": ["garland pose", "花环式", "マラーサナ", "Malasana", "hip opener"]
+  },
+  "corpse_pose": {
+    "zhName": "挺尸式",
+    "description": "仰卧全身放松，闭眼专注呼吸，释放所有紧张，是最终的放松体式。",
+    "difficulty": "beginner",
+    "keywords": ["corpse pose", "挺尸式", "シャバーサナ", "Savasana", "relaxation"]
+  },
+  "warrior_iii": {
+    "zhName": "战士三式",
+    "description": "单腿站立，身体前倾与地面平行，手臂前伸或放两侧，保持平衡。",
+    "difficulty": "intermediate",
+    "keywords": ["warrior iii", "战士三式", "ヴィーラバドラーサナIII", "Virabhadrasana III", "balance"]
+  },
+  "half_moon_pose": {
+    "zhName": "半月式",
+    "description": "单手单脚支撑身体侧展，另一手臂上举，保持平衡和骨盆正位。",
+    "difficulty": "intermediate",
+    "keywords": ["half moon pose", "半月式", "アルダチャンドラーサナ", "Ardha Chandrasana", "balance"]
+  },
+  "pigeon_pose": {
+    "zhName": "鸽子式",
+    "description": "单腿前屈另一腿后伸，髋部朝前，胸腔打开，保持髋部正位。",
+    "difficulty": "intermediate",
+    "keywords": ["pigeon pose", "鸽子式", "エーカパーダラージャカポターサナ", "Eka Pada Rajakapotasana", "hip opener"]
+  },
+  "camel_pose": {
+    "zhName": "骆驼式",
+    "description": "跪立身体后弯，手扶腰或脚跟，胸腔打开，注意保护腰部。",
+    "difficulty": "intermediate",
+    "keywords": ["camel pose", "骆驼式", "ウシュトラーサナ", "Ustrasana", "backbend"]
+  },
+  "crow_pose": {
+    "zhName": "鹤禅式",
+    "description": "蹲姿双手支撑，膝盖放于上手臂后侧，抬起双腿，保持平衡。",
+    "difficulty": "intermediate",
+    "keywords": ["crow pose", "鹤禅式", "バカーサナ", "Bakasana", "arm balance"]
+  },
+  "boat_pose": {
+    "zhName": "船式",
+    "description": "坐姿抬起双腿，背部挺直，手臂前伸，保持平衡和核心收紧。",
+    "difficulty": "intermediate",
+    "keywords": ["boat pose", "船式", "ナヴァーサナ", "Navasana", "core strength"]
+  },
+  "side_plank": {
+    "zhName": "侧平板式",
+    "description": "单手单脚支撑身体侧展，另一手臂上举，保持身体一条线。",
+    "difficulty": "intermediate",
+    "keywords": ["side plank", "侧平板式", "ヴァシシュターサナ", "Vasisthasana", "core strength"]
+  },
+  "extended_side_angle": {
+    "zhName": "侧角伸展式",
+    "description": "宽步前腿90度，身体侧弯手臂上举，胸腔打开，避免前倾。",
+    "difficulty": "intermediate",
+    "keywords": ["extended side angle", "侧角伸展式", "ウッティタパールシュヴァコーナーサナ", "Utthita Parsvakonasana", "stretch"]
+  },
+  "dancer_pose": {
+    "zhName": "舞王式",
+    "description": "单腿站立另一腿后抬，手抓脚踝，身体前倾保持优雅平衡。",
+    "difficulty": "intermediate",
+    "keywords": ["dancer pose", "舞王式", "ナタラージャーサナ", "Natarajasana", "balance"]
+  },
+  "wheel_pose": {
+    "zhName": "轮式",
+    "description": "手脚支撑身体拱起，胸腔充分打开，腿部发力，是深度后弯体式。",
+    "difficulty": "intermediate",
+    "keywords": ["wheel pose", "轮式", "ウールドゥヴァダヌーラーサナ", "Urdhva Dhanurasana", "backbend"]
+  },
+  "fish_pose": {
+    "zhName": "鱼式",
+    "description": "仰卧拱起背部，头顶触地，胸腔打开，避免颈部压力过大。",
+    "difficulty": "intermediate",
+    "keywords": ["fish pose", "鱼式", "マツヤーサナ", "Matsyasana", "backbend"]
+  },
+  "eagle_pose": {
+    "zhName": "鸟王式",
+    "description": "单腿站立双腿缠绕，双臂也相互缠绕，保持专注和平衡。",
+    "difficulty": "intermediate",
+    "keywords": ["eagle pose", "鸟王式", "ガルーダーサナ", "Garudasana", "balance"]
+  },
+  "lizard_pose": {
+    "zhName": "蜥蜴式",
+    "description": "弓步前腿90度，后腿伸直，身体放低，是深度髋部伸展体式。",
+    "difficulty": "intermediate",
+    "keywords": ["lizard pose", "蜥蜴式", "ウッタンプリシュターサナ", "Utthan Pristhasana", "hip opener"]
+  },
+  "cow_face_pose": {
+    "zhName": "牛面式",
+    "description": "坐姿双腿交叠，膝盖对齐，手臂在背后相扣，伸展肩部。",
+    "difficulty": "intermediate",
+    "keywords": ["cow face pose", "牛面式", "ゴムカーサナ", "Gomukhasana", "shoulder stretch"]
+  },
+  "upward_facing_dog": {
+    "zhName": "上犬式",
+    "description": "俯卧，用手臂力量撑起上半身，大腿和骨盆离地，胸腔打开。",
+    "difficulty": "intermediate",
+    "keywords": ["upward-facing dog", "上犬式", "ウールドゥヴァムカシュヴァーナーサナ", "Urdhva Mukha Svanasana", "backbend"]
+  },
+  "locust_pose": {
+    "zhName": "蝗虫式",
+    "description": "俯卧，同时抬起头、胸、手臂和双腿，用背部力量支撑。",
+    "difficulty": "intermediate",
+    "keywords": ["locust pose", "蝗虫式", "シャラバーサナ", "Salabhasana", "back strength"]
+  },
+  "seated_spinal_twist": {
+    "zhName": "坐姿脊柱扭转",
+    "description": "坐姿，一条腿跨过另一条腿，身体向弯曲腿侧扭转，保持脊柱延展。",
+    "difficulty": "beginner",
+    "keywords": ["seated spinal twist", "坐姿脊柱扭转", "アルダマッツェーンドラーサナ", "Ardha Matsyendrasana", "twist"]
+  },
+  "bound_angle_pose": {
+    "zhName": "束角式",
+    "description": "坐姿，双脚脚底相对，膝盖向两侧下沉，打开髋部。",
+    "difficulty": "beginner",
+    "keywords": ["bound angle pose", "束角式", "バッダコーナーサナ", "Baddha Konasana", "hip opener"]
+  },
+  "low_lunge": {
+    "zhName": "低弓步",
+    "description": "一条腿向前迈出成弓步，后腿膝盖落地，伸展髋屈肌。",
+    "difficulty": "beginner",
+    "keywords": ["low lunge", "低弓步", "アンジャネーヤーサナ", "Anjaneyasana", "stretch"]
+  },
+  "high_lunge": {
+    "zhName": "高弓步",
+    "description": "与低弓步相似，但后腿膝盖离地，伸直，对平衡和力量要求更高。",
+    "difficulty": "beginner",
+    "keywords": ["high lunge", "高弓步", "ウッティタアシュヴァサンチャラナーサナ", "Utthita Ashwa Sanchalanasana", "strength"]
+  },
+  "reverse_warrior": {
+    "zhName": "反向战士",
+    "description": "从战士二式开始，上半身后弯，前臂向上伸展，伸展身体侧面。",
+    "difficulty": "beginner",
+    "keywords": ["reverse warrior", "反向战士", "ヴィパリータヴィーラバドラーサナ", "Viparita Virabhadrasana", "stretch"]
+  },
+  "pyramid_pose": {
+    "zhName": "金字塔式",
+    "description": "双腿前后分开站立，身体向前屈，伸展前腿的后侧。",
+    "difficulty": "intermediate",
+    "keywords": ["pyramid pose", "金字塔式", "パールシュヴォッターナーサナ", "Parsvottanasana", "hamstring stretch"]
+  },
+  "legs_up_the_wall": {
+    "zhName": "倒箭式",
+    "description": "仰卧，双腿靠墙向上伸直，臀部贴近墙壁，是极佳的放松体式。",
+    "difficulty": "beginner",
+    "keywords": ["legs up the wall", "倒箭式", "ヴィパリータカラニ", "Viparita Karani", "restorative"]
+  },
+  "happy_baby_pose": {
+    "zhName": "快乐婴儿式",
+    "description": "仰卧，双手抓住双脚外侧，膝盖向腋窝方向下压，放松髋部和下背。",
+    "difficulty": "beginner",
+    "keywords": ["happy baby pose", "快乐婴儿式", "アーナンダバーラーサナ", "Ananda Balasana", "hip opener"]
+  },
+  "headstand": {
+    "zhName": "头倒立",
+    "description": "用头顶和前臂支撑身体倒立，需要强大的核心和上肢力量，需在指导下练习。",
+    "difficulty": "advanced",
+    "keywords": ["headstand", "头倒立", "シールシャーサナ", "Sirsasana", "inversion"]
+  },
+  "shoulder_stand": {
+    "zhName": "肩倒立",
+    "description": "用肩膀和上臂支撑身体倒立，双手扶住背部，注意保护颈部。",
+    "difficulty": "advanced",
+    "keywords": ["shoulder stand", "肩倒立", "サルヴァーンガーサナ", "Sarvangasana", "inversion"]
+  },
+  "plow_pose": {
+    "zhName": "犁式",
+    "description": "从肩倒立开始，双腿向后落下，脚尖触地，深度伸展脊柱和颈部。",
+    "difficulty": "advanced",
+    "keywords": ["plow pose", "犁式", "ハラーサナ", "Halasana", "inversion"]
+  },
+  "lotus_pose": {
+    "zhName": "莲花式",
+    "description": "坐姿，双腿交叉，将脚背分别放在对侧大腿上，是高级的冥想坐姿。",
+    "difficulty": "advanced",
+    "keywords": ["lotus pose", "莲花式", "パドマーサナ", "Padmasana", "meditation"]
+  },
+  "firefly_pose": {
+    "zhName": "萤火虫式",
+    "description": "高难度的手臂平衡体式，双腿从手臂之间向前伸直，身体悬空。",
+    "difficulty": "advanced",
+    "keywords": ["firefly pose", "萤火虫式", "ティッティバーサナ", "Tittibhasana", "arm balance"]
+  },
+  "peacock_pose": {
+    "zhName": "孔雀式",
+    "description": "用前臂支撑，身体与地面平行，是展示力量与平衡的高级体式。",
+    "difficulty": "advanced",
+    "keywords": ["peacock pose", "孔雀式", "マユーラーサナ", "Mayurasana", "arm balance"]
+  },
+  "handstand": {
+    "zhName": "手倒立",
+    "description": "仅用双手支撑身体完全倒立，需要极强的力量、平衡和控制力。",
+    "difficulty": "advanced",
+    "keywords": ["handstand", "手倒立", "アドームカヴリクシャーサナ", "Adho Mukha Vrksasana", "inversion"]
+  },
+  "eight_angle_pose": {
+    "zhName": "八角式",
+    "description": "手臂平衡体式，身体向一侧扭转，双腿伸直并夹住上臂。",
+    "difficulty": "advanced",
+    "keywords": ["eight-angle pose", "八角式", "アシュタヴァクラーサナ", "Astavakrasana", "arm balance"]
+  },
+  "king_pigeon_pose": {
+    "zhName": "鸽王式",
+    "description": "在鸽子式基础上，身体后弯，双手在背后抓住后脚，是深度后弯和开髋体式。",
+    "difficulty": "advanced",
+    "keywords": ["king pigeon pose", "鸽王式", "ラージャカポターサナ", "Rajakapotasana", "backbend"]
+  },
+  "dolphin_pose": {
+    "zhName": "海豚式",
+    "description": "类似下犬式，但用前臂支撑，是头倒立和手臂平衡的准备体式。",
+    "difficulty": "intermediate",
+    "keywords": ["dolphin pose", "海豚式", "アルダピンチャマユーラーサナ", "Ardha Pincha Mayurasana", "strength"]
+  },
+  "wild_thing_pose": {
+    "zhName": "狂野式",
+    "description": "从侧板式开始，上方的腿向后落地，身体向上拱起，打开胸腔。",
+    "difficulty": "intermediate",
+    "keywords": ["wild thing", "狂野式", "カマトカラーサナ", "Camatkarasana", "backbend"]
+  },
+  "side_crow_pose": {
+    "zhName": "侧乌鸦式",
+    "description": "乌鸦式的扭转版本，双腿向一侧并拢，放在对侧上臂上。",
+    "difficulty": "advanced",
+    "keywords": ["side crow", "侧乌鸦式", "パールシュヴァバカーサナ", "Parsva Bakasana", "arm balance"]
+  },
+  "frog_pose": {
+    "zhName": "蛙式",
+    "description": "俯卧，双腿膝盖向两侧打开，小腿与大腿呈90度，深度打开内收肌。",
+    "difficulty": "intermediate",
+    "keywords": ["frog pose", "蛙式", "マンドゥカーサナ", "Mandukasana", "hip opener"]
+  },
+  "half_frog_pose": {
+    "zhName": "半蛙式",
+    "description": "俯卧，弯曲一条腿，同侧手抓住脚背，向臀部方向拉伸，伸展股四头肌。",
+    "difficulty": "beginner",
+    "keywords": ["half frog pose", "半蛙式", "アルダベーカアーサナ", "Ardha Bhekasana", "stretch"]
+  },
+  "thread_the_needle_pose": {
+    "zhName": "穿针式",
+    "description": "从四角跪姿开始，一条手臂从另一条手臂下穿过，伸展肩膀后侧。",
+    "difficulty": "beginner",
+    "keywords": ["thread the needle", "穿针式", "ウッティタパールシュヴァコーナーサナ", "Urdhva Mukha Pasasana", "shoulder stretch"]
+  },
+  "sphinx_pose": {
+    "zhName": "狮身人面式",
+    "description": "俯卧，用前臂支撑上半身，是比眼镜蛇式更温和的后弯。",
+    "difficulty": "beginner",
+    "keywords": ["sphinx pose", "狮身人面式", "サランバブジャンガーサナ", "Salamba Bhujangasana", "backbend"]
+  },
+  "upward_plank_pose": {
+    "zhName": "反向平板式",
+    "description": "坐姿，手在身后支撑，抬起臀部，身体呈一条反向的直线。",
+    "difficulty": "intermediate",
+    "keywords": ["upward plank", "反向平板式", "プールヴォッターナーサナ", "Purvottanasana", "strength"]
+  },
+  "reclining_hero_pose": {
+    "zhName": "卧英雄式",
+    "description": "从英雄式坐姿开始，身体向后躺倒，深度伸展股四头肌和脚踝。",
+    "difficulty": "advanced",
+    "keywords": ["reclining hero pose", "卧英雄式", "スプタヴィーラーサナ", "Supta Virasana", "stretch"]
+  },
+  "hero_pose": {
+    "zhName": "英雄式",
+    "description": "跪姿，双脚分开，臀部坐在双脚之间，伸展脚踝和膝盖。",
+    "difficulty": "intermediate",
+    "keywords": ["hero pose", "英雄式", "ヴィーラーサナ", "Virasana", "stretch"]
+  },
+  "staff_pose": {
+    "zhName": "手杖式",
+    "description": "坐姿，双腿向前伸直并拢，背部挺直，是许多坐姿体式的起点。",
+    "difficulty": "beginner",
+    "keywords": ["staff pose", "手杖式", "ダンダーサナ", "Dandasana", "seated"]
+  },
+  "four_limbed_staff_pose": {
+    "zhName": "四柱支撑",
+    "description": "类似俯卧撑的最低点，身体平行地面，手肘弯曲90度夹紧身体。",
+    "difficulty": "intermediate",
+    "keywords": ["four-limbed staff pose", "四柱支撑", "チャトランガダンダーサナ", "Chaturanga Dandasana", "strength"]
+  },
+  "goddess_pose": {
+    "zhName": "女神式",
+    "description": "宽距站立，脚尖外展，弯曲膝盖下蹲，类似相扑深蹲。",
+    "difficulty": "beginner",
+    "keywords": ["goddess pose", "女神式", "ウトゥカタコーナーサナ", "Utkata Konasana", "strength"]
+  },
+  "wide_legged_forward_bend": {
+    "zhName": "双角式",
+    "description": "双脚宽距分开站立，从髋部前屈，手或头可以触地。",
+    "difficulty": "beginner",
+    "keywords": ["wide-legged forward bend", "双角式", "プラサリータパードッターナーサナ", "Prasarita Padottanasana", "stretch"]
+  },
+  "bow_pose": {
+    "zhName": "弓式",
+    "description": "俯卧，双手抓住脚踝，向上拉起身体，形成弓的形状。",
+    "difficulty": "intermediate",
+    "keywords": ["bow pose", "弓式", "ダヌーラーサナ", "Dhanurasana", "backbend"]
+  },
+  "supine_spinal_twist": {
+    "zhName": "仰卧脊柱扭转",
+    "description": "仰卧，弯曲双膝倒向一侧，头部转向另一侧，放松脊柱。",
+    "difficulty": "beginner",
+    "keywords": ["supine spinal twist", "仰卧脊柱扭转", "スプタマッツェーンドラーサナ", "Supta Matsyendrasana", "twist"]
+  },
+  "half_lord_of_the_fishes_pose": {
+    "zhName": "半鱼王式",
+    "description": "坐姿脊柱扭转的高级版本，对柔韧性和平衡要求更高。",
+    "difficulty": "intermediate",
+    "keywords": ["half lord of the fishes", "半鱼王式", "アルダマッツェーンドラーサナ", "Ardha Matsyendrasana", "twist"]
+  },
+  "marichis_pose_c": {
+    "zhName": "圣哲玛里奇C",
+    "description": "坐姿扭转体式，一条腿弯曲，另一条腿伸直，手臂环绕弯曲的腿。",
+    "difficulty": "intermediate",
+    "keywords": ["marichi's pose c", "圣哲玛里奇C", "マリーチャーサナC", "Marichyasana C", "twist"]
+  },
+  "compass_pose": {
+    "zhName": "罗盘式",
+    "description": "坐姿，将一条腿扛在肩上并向上伸直，深度伸展腿筋和体侧。",
+    "difficulty": "advanced",
+    "keywords": ["compass pose", "罗盘式", "パリヴリッタスーリヤヤントラーサナ", "Parivrtta Surya Yantrasana", "stretch"]
+  },
+  "forearm_stand": {
+    "zhName": "前臂倒立",
+    "description": "用前臂支撑身体倒立，比手倒立更稳定，但仍需强大力量。",
+    "difficulty": "advanced",
+    "keywords": ["forearm stand", "前臂倒立", "ピンチャマユーラーサナ", "Pincha Mayurasana", "inversion"]
+  },
+  "crane_pose": {
+    "zhName": "起重机式",
+    "description": "手臂伸直版本的鹤禅式（乌鸦式），对力量和平衡要求更高。",
+    "difficulty": "advanced",
+    "keywords": ["crane pose", "起重机式", "バカーサナ", "Bakasana", "arm balance"]
+  },
+  "supported_headstand": {
+    "zhName": "支撑头倒立",
+    "description": "三点头倒立，用头和双手形成三角支撑，比前臂头倒立对颈部压力更大。",
+    "difficulty": "advanced",
+    "keywords": ["supported headstand", "支撑头倒立", "サランバシールシャーサナ", "Salamba Sirsasana", "inversion"]
+  }
+}

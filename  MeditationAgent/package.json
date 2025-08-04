@@ -1,0 +1,35 @@
+{
+  "name": "meditation-agent",
+  "version": "1.0.2",
+  "description": "一个基于大模型与语音合成的冥想内容生成智能体，支持个性化引导与文本/语音输出，适用于微信小程序、冥想应用、心理健康平台等。",
+  "main": "index.js",
+  "scripts": {
+    "start": "node local-runner.js",
+    "test": "node -e \"console.log(require('./index').main_handler ? 'ok' : 'fail')\"",
+    "ping": "node -e \"require('./index').main_handler({type:'ping'}, {requestId:'local'}).then(r => console.log('🏓', r)).catch(console.error)\"",
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "meditation",
+    "tts",
+    "agent",
+    "yoga",
+    "冥想",
+    "语音生成",
+    "大模型",
+    "智能体",
+    "智能冥想"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-org/meditation-agent"
+  },
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "cos-nodejs-sdk-v5": "^2.15.1",
+    "md5": "^2.3.0",
+    "tencentcloud-sdk-nodejs": "~4.0.815"
+  }
+}
